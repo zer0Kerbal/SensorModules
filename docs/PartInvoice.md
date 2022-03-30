@@ -17,7 +17,7 @@ updated: 27 Mar 2022 -->
 
 ## Part Invoice
 
-This add-on adds nine (9) resource parts
+This add-on adds four (4) science parts
 
 ---
 
