@@ -1,5 +1,3 @@
-# HBSensorModules
-
 <!-- readme.md v1.6.6.1
 HBSensorModules (HBSM)
 created: 01 Oct 2019
