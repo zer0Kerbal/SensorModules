@@ -156,7 +156,7 @@ https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=bla
 
 <!--- AVC -->
 [AVC:shd]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
-[AVCVLD:shd]: https://github.com/zer0Kerbal/HBSensorModules/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
+[AVCVLD:shd]: https://github.com/zer0Kerbal/HBSensorModules/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
