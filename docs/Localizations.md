@@ -7,14 +7,14 @@ tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Localizations.md v1.1.3.0
-Hot Beverages Inc - Sensor Modules (HBISM)
+Hot Beverages Inc - Sensor Modules (HBSM)
 created: 01 Feb 2022
 updated: 27 Mar 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
-# Hot Beverages Inc - Sensor Modules (HBISM)
+# Hot Beverages Inc - Sensor Modules (HBSM)
 
 [Home](./index.md)
 
