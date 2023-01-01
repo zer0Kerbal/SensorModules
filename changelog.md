@@ -1,64 +1,51 @@
-﻿<!-- 
-changelog.md v1.1.1.1
-modname
-created: 01 Aug 2016
-updated: 05 Mar 2022
-
-——————————————————————————————————————————————————
-——— changelog ————————————————————————————————————
-——————————————————————————————————————————————————
--->
-
 # Changelog  
   
-| modName    | HotBeverages Sensor Modules (HBS)                            |
-| ---------- | ------------------------------------------------------------ |
-| license    | CC-BY-SA-3.0                                                 |
-| author     | Ph34rb0t and zer0Kerbal                                      |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/-*)   |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/HBSensorModules)   |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/HBSensorModules) |
-| spacedock  | (https://spacedock.info/mod/)                                |
-| ckan       | HBSensorModules                                              |
+| modName    | Sensor Modules (SENS)                                            |
+| ---------- | ----------------------------------------------------------------- |
+| license    | CC-NC-ND-4.0                                                      |
+| author     | Ph34rb0t and zer0Kerbal                                           |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/211246-*/) |
+| github     | (https://github.com/zer0Kerbal/SensorModules)                    |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SensorModules)       |
+| spacedock  | (https://spacedock.info/mod/3037)                                 |
+| ckan       | SensorModules                                                    |
 
-## Version 1.1.0.0 - >>-- Final Countdown - for KSP 1.11.2 --<<
+## Version 0.2.0.0-release `<Archival>` edition
 
-* thorough linting of configs
-* minor corrections to readme and changelog
-* backend automations
+* Released
+  * 09 Oct 2014
+  * for Kerbal Space Program 0.25
+  * by Ph34b0t
+
 * Added
-  * Inflatable PicoPort Basic
-  * all parts to ConnectedLivingSpaces and TweakScale patches
+  * SAS module
+  * Antenna module
+* Changes by zer0Kerbal
+  * split out unique resources into <Kerturn.cfg>
+  * replace with LFO
+* last release by Ph34b0t
 
-## Version 1.0.1.0 - >>-- Reminiaturized - for KSP 1.8.1 --<<
+### Status 0.2.0.0
 
-* corrected changelog
-* added localization code
-* removed extraneous scale =
-* removed localization code since it just doesn't work this way. :(
-* updated to new KERBALCHANGELOG format!
-* added three new models!
-  * Basic
-  * Now has Female
-  * Now has Male
-  * Now has and Plus
+* Issues
+  * closes #7 - Archival Releases
+  * closes #13 - 0.2.0.0-release
 
-## Version 1.0.0.2 - Needy little things
+---
 
-* [D][BUG 1.0.0.2a] part isn't loading
-* [D][BUG 1.0.0.2a] change in folder structure was not reflected in patches :NEEDS statement which in turn caused th*not load.
-* remove errors in Changelog.cfg
+## Version 0.1.0.0-release `<Archival>` edition
 
-## Version 1.0.0.1 - ReStocked and Flush
+* Released
+  * 22 Jul 2014
+  * for Kerbal Space Program 0.23.5
+  * by Ph34b0t
 
-* added PicoPortShielded.restockwhitelist
-* added ReStock patch (so PicoPortShielded will show up with ReStock installed)
-* turned off PicoPortShielded.restockwhitelist
-* adjusted placement of model so will no longer sink into part attached to
-* moved TweakScale and ConnectedLivingSpaces patches into separate files
+### Creation by Ph34b0t
 
-## Version 1.0.0.0 -  Phalanx those Ports!
+### Status 0.1.0.0
 
-* >>-- creation by zer0Kerbal --<<
+* Issues
+  * updates #7 - Archival Releases
+  * closes #12 - 0.1.0.0-release
 
-<!-- CC BY-NC-ND 3.0 Unported zer0Kerbal -->
+---
