@@ -1,27 +1,24 @@
 {
-    "schedule": "weekly",
-    "ignoredFiles": [
-        "GameData/*",
-        "docs/LegalMumboJumbo/*",
-        "/docs/LegalMumboJumbo/*",
-        "GameData/HotBeveragesInc/SensorModules/*",
-        "/GameData/HotBeveragesInc/SensorModules/*",
-        "GameData/HotBeveragesInc/SensorModules/Assets/*",
-        "/GameData/HotBeveragesInc/SensorModules/Assets/*",
-        "GameData/HotBeveragesInc/SensorModules/Parts/@thumbs*",
-        "/GameData/HotBeveragesInc/SensorModules/Parts/@thumbs*",
-        "source/*",
-        "**/Assets/**",
-        "**/Flags/**",
-        "**/Agents/**",
-        "**/Textures/**",
-        "**/UI/**",
-        "**/PluginData/**",
-        "**/Icons/**",
-        "**/@thumbs/**",
-        "**/LegalMumboJumbo/**"
-    ],
-    "aggressiveCompression": "false",
-    "compressWiki": "true",
-    "minKBReduced": 500
-}
+            "schedule": "weekly",
+            "ignoredFiles": [
+                "GameData/HotBeverage/SensorModules/*",
+                "source/*",
+                "**/@thumbs/**",
+                "**/Agencies/**",
+                "**/Assets/**",
+                "**/Flags/**",
+                "**/FX/**",
+                "**/Icons/**",
+                "**/LegalMumboJumbo/**",
+                "**/Parts/**",
+                "**/PluginData/**",
+                "**/Props/**",
+                "**/SimpleIcons/**",
+                "**/Spaces/**",
+                "**/Textures/**",
+                "**/UI/**"
+            ],
+            "aggressiveCompression": "false",
+            "compressWiki": "true",
+            "minKBReduced": 500
+        }
