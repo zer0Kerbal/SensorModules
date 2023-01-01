@@ -10,8 +10,8 @@ repository:
   # The name of the repository. Changing this will rename the repository
   name: SensorModules
 
-  # A short description of the repository that will show up on GitHub
-  description: The exterior appearance of your spaceships is too cluttered? Sensors hanging all about? Ever confused a gravioli sensor with a thermo cup of tea? Well, we have the king of advanced science tech for you - The unbeatable, unbreakable and undeniable sensooOOR MODUUUUUUULE! Grab it at our shop while it's still hot! Or better don't. Because it's hot! Served up steaming stack sensor parts straight from the irradiating oven.
+  # A short description of the repository that will show up on GitHub (350 characters)
+  description: Exterior of your spaceships are too cluttered? Sensors hanging all about? Ever confuse a gravioli sensor with a thermo cup of tea? Well, we have the King of advanced science tech for you! The unbeatable, unbreakable and undeniable sensooOOR MODUUUUUUULE! Grab it at our shop while it's still hot! Or better don't. Because it's hot! For KSP.
   
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/211260-*/
