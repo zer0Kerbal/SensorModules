@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | Sensor Modules (SENS)                                            |
+| modName    | Sensor Modules (SENS)                                             |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-NC-ND-4.0                                                      |
 | author     | Ph34rb0t and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/211246-*/) |
-| github     | (https://github.com/zer0Kerbal/SensorModules)                    |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SensorModules)       |
-| spacedock  | (https://spacedock.info/mod/3037)                                 |
-| ckan       | SensorModules                                                    |
+| github     | (https://github.com/zer0Kerbal/SensorModules)                     |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SensorModules)        |
+| spacedock  | (https://spacedock.info/mod/3184)                                 |
+| ckan       | SensorModules                                                     |
 
 ## Version 0.2.0.0-release `<Archival>` edition
 
