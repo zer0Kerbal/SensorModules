@@ -1,21 +1,21 @@
 ---
 permalink: /ManualInstallation.html
-title: ManualInstallation
+title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.1.0
-HBSensorModules (HBSM)
+<!-- ManualInstallation.md v1.1.8.1
+Sensor Modules (SENS)
 created: 01 Oct 2019
-updated: 27 Mar 2022 -->
+updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# HBSensorModules (HBSM)
+# Sensor Modules (SENS)
 
-Adds Mallet, Survey Stake, Recycler, Disposable Pad, Orbital Dock and Control Reference; and turns Cupola module to Survey Station. Requires SimpleConstruction! for Kerbal Space Program.
+[Home](./index.md)
+
+Going to the dark side of [random planet] and worried about running out of snacks to go with your Jeb Nuclear Coffee!? Look no further, we've got the perfect snack luggage!!  For Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -25,60 +25,59 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the GameData folder inside your Kerbal Space Program folder:
+To install, place the `HotBeverage` folder inside your Kerbal Space Program's GameData folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/HotBeveragesInc/HBSensorModules`
-* Extract the package's `HBSensorModules/` folder into your KSP's as follows:
-  * `<PACKAGE>/SimpleConstruction` --> `<KSP_ROOT>/GameData/HotBeveragesInc/HBSensorModules`
-    * Overwrite any preexisting file.
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
+  * Delete `<KSP_ROOT>/GameData/HotBeverage/SensorModules`
+* Extract the package's `HotBeverage` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/HotBeverage` --> `<KSP_ROOT>/GameData/`
+    * Overwrite any preexisting folder/file(s).
+  * you should end up with `<KSP_ROOT>/GameData/HotBeverage/SensorModules`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
-To install, place the GameData folder inside your Kerbal Space Program folder:
+To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/HotBeveragesInc/HBSensorModules`
-* Extract the package's `GameData/HotBeveragesInc/HBSensorModules` folder into your KSP's as follows:
-  * `<PACKAGE>/GameData/HotBeveragesInc/HBSensorModules` --> `<KSP_ROOT>/GameData`
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
+  * Delete `<KSP_ROOT>/GameData/HotBeverage/SensorModules`
+* Extract the package's `GameData` folder into your KSP's root folder as follows:
+  * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
+  * you should end up with `<KSP_ROOT>/GameData/HotBeverage/SensorModules`
 
 ## The following file layout must be present after installation
 
-```
+```markdown
 <KSP_ROOT>
-  [GameData]
-    [HotBeveragesInc]
-      [HotBeveragesInc]
-        [Agencies]
+  + [GameData]
+    + [HotBeverage]
+      + [HotBeverageInc]
+        + [Agencies]
           ...
-        [Flags]
+        + [Flags]
           ...
-      [HBSensorModules]
-        [Assets]
+        ...
+      + [SensorModules]
+        + [Compatibility]
           ...
-        [Compatibility]
+        + [Config]
           ...
-        [Config]
+        + [Localization]
           ...
-        [Localization]
-          ...
-        [Parts]
-          ...
-        1.0.0.0.htm
-        changelog.md
-        HBSensorModules.version
-        License.txt
-        readme.htm
+        * #.#.#.#.htm
+        * Attributions.htm
+        * CC-BY-ND-4.0.txt
+        * changelog.md
+        * SensorModules.version
+        * ManualInstallation.htm
+        * readme.htm
+        ...
     ...
-  KSP.log
+    * ModuleManager.ConfigCache
+  * KSP.log
   ...
 ```
 
 ### Dependencies
 
-* [HotBeverages (HB)][hb]
-
-[hb]:  "Hot Beverages Common Files"
-[scon]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstruction! (SCON!)"
-[mm]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+* [HotBeverageInc](https://forum.kerbalspaceprogram.com/index.php?/topic/208353-*/)
