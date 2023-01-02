@@ -29,19 +29,16 @@ CC BY-ND 4.0 by zer0Kerbal
   * for Kerbal Space Program 0.25
   * by Ph34b0t
 
-* Added
-  * SAS module
-  * Antenna module
+* Last release by Ph34b0t
+* No Changelog provided
 * Changes by zer0Kerbal
-  * split out unique resources into <Kerturn.cfg>
-  * replace with LFO
-* last release by Ph34b0t
+  * split out into three seperate part.cfg
 
 ### Status 0.2.0.0
 
 * Issues
-  * closes #7 - Archival Releases
-  * closes #13 - 0.2.0.0-release
+  * closes #32 - Archival Releases
+  * closes #38 - 0.2.0.0-release
 
 ---
 
@@ -54,10 +51,14 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ### Creation by Ph34b0t
 
+* No Changelog provided
+* Changes by zer0Kerbal
+  * split out into three seperate part.cfg
+
 ### Status 0.1.0.0
 
 * Issues
-  * updates #7 - Archival Releases
-  * closes #12 - 0.1.0.0-release
+  * updates #32 - Archival Releases
+  * closes #37 - 0.1.0.0-release
 
 ---
