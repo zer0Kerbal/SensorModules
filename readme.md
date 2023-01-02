@@ -23,7 +23,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 > The exterior appearance of your spaceships is too cluttered? Sensors hanging all about? Ever confused a > gravioli sensor with a thermo cup of tea?
 >
-> Well, HBI has the king of advanced science tech for you: The unbeatable, unbreakable and undeniable > sensooOOR MODUUUUUUULE!
+> Well, HBI has the king of advanced science tech for you: The unbeatable, unbreakable and undeniable sensooOOR MODUUUUUUULE!
 >
 > Grab it at our shop while it's still hot! Or better don't. Because it's hot.
 
@@ -98,9 +98,9 @@ or [![CKAN][ckan:img]][ckan:url]
 * [Kerturn (KAT)][KAT]
 * [Sensor Modules (SENS)][SENS]
 * [Sensor Modules (SENS)][SERV]
-* Either
-  * [Module Manager /L][mml] [^3]
-  * [Module Manager][mm] [^3]
+* Either [^3]
+  * [Module Manager /L][mml]
+  * [Module Manager][mm]
 
 ### Tags
 
