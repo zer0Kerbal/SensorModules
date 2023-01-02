@@ -142,6 +142,13 @@
 
 ### Status 0.9.99.0
 
+* Issues
+  * closes #1 - Sensor Modules (SENS) 0.9.99.0-adoption `<Thank you Ph34b0t>` edition
+  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Create Documentation
+  * closes #4 - 1.1.99.0 Create Social Media Presence
+  * closes #11 - Update License
+
 
 ---
 
