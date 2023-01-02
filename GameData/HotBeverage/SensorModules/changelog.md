@@ -21,6 +21,7 @@
 * No Changelog provided
 * Changes by zer0Kerbal
   * split out into three seperate part.cfg
+  * adjust nodes (flipped bottom axis)
 
 ### Status 0.2.0.0
 
@@ -42,6 +43,7 @@
 * No Changelog provided
 * Changes by zer0Kerbal
   * split out into three seperate part.cfg
+  * adjust nodes (flipped bottom axis)
 
 ### Status 0.1.0.0
 
