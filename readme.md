@@ -21,7 +21,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Preamble by [Ph34rb0t][ph34rb0t]
 
-> The exterior appearance of your spaceships is too cluttered? Sensors hanging all about? Ever confused a gravioli sensor with a thermo cup of tea?
+> [Is] The exterior appearance of your spaceships is too cluttered? Sensors hanging all about? Ever confused a gravioli sensor with a thermo cup of tea?
 >
 > Well, HBI has the king of advanced science tech for you: The unbeatable, unbreakable and undeniable sensooOOR MODUUUUUUULE!
 >
@@ -38,12 +38,12 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Help Wanted
 
-> * Compatibility patches - especially life support
+> * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
+> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
-> * Translations: See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 ### Localization
 
@@ -136,9 +136,7 @@ or [![CKAN][ckan:img]][ckan:url]
 > Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [CurseForge][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
-### DONATIONS
-
-How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
 
 > ***Completely voluntary, absolutely amazing, and really does help me out a lot!***
 > quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
