@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.9.9
+<!-- readme.md v1.7.0.0
 Sensor Modules (SENS)
 created: 17 Jul 2017
-updated: 04 Oct 2022 -->
+updated: 01 Jan 2023 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
@@ -207,10 +207,10 @@ or [![CKAN][ckan:img]][ckan:url]
 [SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
 
 [HBI]: https://forum.kerbalspaceprogram.com/index.php?/topic/208353-*/ "Hot Beverage Inc (HBI)"
-[FUEL]: https://github.com/zer0Kerbal/HBFuelCells "HBFuelCells (FUEL)"
 [HBEx]: https://github.com/zer0Kerbal/IrradiatedParts "Irradiated Parts (HBEx)"
 [KAT]: https://github.com/zer0Kerbal/Kerturn "Kerturn (KAT)"
 [RTG]: https://github.com/zer0Kerbal/HBRTG "Radioisotope Thermoelectric Generators (RTG)"
+[FUEL]: https://forum.kerbalspaceprogram.com/index.php?/topic/211277-*/ "HBFuelCells (FUEL)"
 [SENS]: https://forum.kerbalspaceprogram.com/index.php?/topic/211260-*/ "Sensor Modules (SENS)"
 [SERV]: https://forum.kerbalspaceprogram.com/index.php?/topic/211246-*/ "Sensor Modules (SENS)"
 
