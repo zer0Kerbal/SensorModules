@@ -11,7 +11,7 @@ updated: 04 Oct 2022 -->
 
 # Sensor Modules (SENS)
 
-[Hot Beverage Inc][HBI] serves up some steaming [Sensor Modules][SENS] straight from the oven. 
+[Hot Beverage Inc][HBI] serves up some steaming [Sensor Modules][SENS] straight from the irradiating oven.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [Ph34rb0t][ph34rb0t]
 
@@ -81,13 +81,14 @@ or [![CKAN][ckan:img]][ckan:url]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [Kaboom! (BOOM)][BOOM]
 * [On Demand Fuel Cells (ODFC)][ODFC]
+* [OScience Laboratories (OSL)][OSL]
 * [Papa Kerballini's Pizza (PIZZA)][PIZZA]
 * [SimpleConstruction! (SCON)][SCON]
 * [SimpleLife! (LIFE)][LIFE]
 * [SimpleLogistics! (SLOG)][SLOG]
 * [SimpleNotes! (NOTE)][NOTES]
+* [Solar Science (SOL)][SOL]
 * [TweakScale][twk]
-* [OScience Laboratories (OSL)][OSL]
 
 ### Supports
 
@@ -205,6 +206,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [PIZZA]: https://forum.kerbalspaceprogram.com/index.php?/topic/209577-*/ "Papa Kerballini's Pizza (PIZZA)"
 [SCON]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstruction! (SCON)"
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
+[SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
 
 [HBI]: https://forum.kerbalspaceprogram.com/index.php?/topic/208353-*/ "Hot Beverage Inc (HBI)"
 [FUEL]: https://github.com/zer0Kerbal/HBFuelCells "HBFuelCells (FUEL)"
@@ -270,7 +272,7 @@ Track progress: issues [here][MOD:issue] and projects [here](https://github.com/
 
 1. GitHub, reaching first manual installers and users of KSP-AVC. Right now.
 2. CurseForge. Right now.
-3. SpaceDock (and CKAN users). Soon™
+3. SpaceDock (and CKAN users). Soon™ *(the button was pressed)*
 
 <!-- footnotes -->
 [^1]: this isn't a mod. ;P  
