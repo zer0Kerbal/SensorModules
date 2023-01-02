@@ -21,7 +21,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Preamble by [Ph34rb0t][ph34rb0t]
 
-> The exterior appearance of your spaceships is too cluttered? Sensors hanging all about? Ever confused a > gravioli sensor with a thermo cup of tea?
+> The exterior appearance of your spaceships is too cluttered? Sensors hanging all about? Ever confused a gravioli sensor with a thermo cup of tea?
 >
 > Well, HBI has the king of advanced science tech for you: The unbeatable, unbreakable and undeniable sensooOOR MODUUUUUUULE!
 >
