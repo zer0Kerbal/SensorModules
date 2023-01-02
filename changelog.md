@@ -21,9 +21,10 @@
 
 ### Summary 0.9.99.0
 
-* Added three new parts (four sizes)
-  * 1.25m, 1.875.m 2.5m and 3.75m
+* Adds one new part, in five sizes
+  * 0.625m, 1.25m, 1.875m, 2.5m and 3.75m
   * each with all the modcons
+* Val had some fun with the last can of Fire Engine Red spray paint and a stencil.
 * lots of updates and linting
 * fully localized (English)
 * nodes adjusted and corrected
@@ -31,17 +32,16 @@
 * converted .png --> .dds
 * updated all compatibility patches
 * Compatibility
-  * TAC-LS
   * Kerbal Inventory System
-    * allows searching 'serv' in editors
+  * allows searching 'sens' in editors
 
 ### Archival Releases
 
 * 0.2.0.0-release `<Archival>`
 * 0.1.0.0-release `<Archival>`
-* closes #7 - Archival Releases
-* closes #13 - 0.2.0.0-release
-* closes #12 - 0.1.0.0-release
+* closes #32 - Archival Releases
+* closes #37 - 0.1.0.0-release
+* closes #38 - 0.2.0.0-release
 
 ### Part 0.9.99.0
 
@@ -50,10 +50,10 @@
   * convert from:
     * mesh to MODEL {}
     * .png --> .dds
-      * <KPS.png> 786kb --> <KPS.dds> 1.33mb
-      * <SM.dds> 826kb --> <SM.png> 1.33mb
+      * <model000.png> 778kb --> <sensormd.dds> 1.33mb
   * rename
     * models to unique names
+      * <SensorMD.mu --> >sensormd.mu>
     * textures to unique names
   * update
     * model pointers (.png et al to .dds)
@@ -61,16 +61,15 @@
   * relocate assets to Assets/
   * eliminate duplicates
   * relocate part.cfg to Parts/
-* closes #9 - Part Asset Updates
+* closes #34 - Part Asset Updates
 
 ### Compatibility
 
 * Add
   * <KerbalInventorySystem.cfg> v1.0.0.0
-  * <TAC-LS.cfg> v1.0.0.0
 * Update
-  * <Kerturn.cfg> v1.1.1.0
-* closes #10 - Create <SensorModules.cfg>
+  * <TweakScake.cfg> v1.1.1.0
+* closes #35 - Create <SensorModules.cfg>
 
 ### Localization 0.9.99.0
 
@@ -79,11 +78,10 @@
   * Localization/
     * <readme.md> v2.1.2.0
     * <quickstart.md>  v1.0.1.1
-* closes #33 - Part Tags
-* closes #32 - Part Localization
-* closes #15 - English <en-us.cfg>
-* closes #14 - Localization - Master
-* closes #8 - Create Localization directory and contents
+* updates #2 - Localization - Master
+* closes #3 - English <us-en.cfg>
+* closes #19 - Part Localization
+* closes #33 - Create Localization directory and contents
 
 ### Create Legal Mumbo Jumbo 0.9.99.0
 
@@ -106,6 +104,7 @@
   * CurseForge
   * SpaceDock
   * CKAN
+* closes #36 - Update License
 
 ### Documentation 0.9.99.0
 
@@ -131,24 +130,25 @@
     * [Disclaimer.md] v1.0.1.0
     * [PartsCatalog.md] v1.1.4.1
     * [Why.md] v1.1.0.0
-* closes #5 - Create GitHub Pages
+* closes #30 - Create GitHub Pages
 
 ### Create
 
 * HeroLogo.png
   * HeroLogo.png
   * copy/convert to HeroLogo.jpg
-* closes #6 - Create HeroLogo.png
+* closes #31 - Create HeroLogo.png
 
 ### Status 0.9.99.0
 
 * Issues
-  * closes #1 - Sensor Modules (SENS) 0.9.99.0-adoption `<Thank you Ph34b0t>` edition
-  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
-  * closes #3 - 1.1.99.0 Create Documentation
-  * closes #4 - 1.1.99.0 Create Social Media Presence
-  * closes #11 - Update License
-
+* closes #26 - Service Modules (SERV) 0.9.99.0-adoption `<Thank you Ph34b0t>` edition
+* closes #27 - 1.0.99.0 Create Legal Mumbo Jumbo
+* closes #28 - 1.0.99.0 Create Documentation
+* closes #29 - 1.0.99.0 Create Social Media Presence
+* closes #21 - 1.0.0.0 Verify Legal Mumbo Jumbo
+* closes #22 - 1.0.0.0 Update Documentation
+* closes #23 - 1.0.0.0 Social Media
 
 ---
 
