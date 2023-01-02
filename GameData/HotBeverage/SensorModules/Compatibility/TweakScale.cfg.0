@@ -1,0 +1,84 @@
+// TweakScale.cfg v1.0.0.0
+// Sensor Modules (SENS)
+// created: 24 Feb 2020
+// updated: 01 Jan 2023
+
+// CC BY-SA-3.0 Unported by zer0Kerbal
+
+@PART[sens-0625]:NEEDS[HotBeverage/SensorModule,TweakScale]:FOR[SensorModules]
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		freeScale = True
+		defaultScale = 0.625
+	}
+}
+
+@PART[sens-125]:NEEDS[HotBeverage/SensorModule,TweakScale]:FOR[SensorModules]
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		freeScale = True
+		defaultScale = 1.25
+	}
+}
+
+@PART[sens-1875]:NEEDS[HotBeverage/SensorModule,TweakScale]:FOR[SensorModules]
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		freeScale = True
+		defaultScale = 1.875
+	}
+
+}
+
+@PART[sens-250]:NEEDS[HotBeverage/SensorModule,TweakScale]:FOR[SensorModules]
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		freeScale = True
+		defaultScale = 2.5
+	}
+}
+
+@PART[sens-375]:NEEDS[HotBeverage/SensorModule,TweakScale]:FOR[SensorModules]
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		freeScale = True
+		defaultScale = 3.75
+	}
+}
+
+@PART[sens-500]:NEEDS[HotBeverage/SensorModule,TweakScale]:FOR[SensorModules]
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		freeScale = True
+		defaultScale = 5.0
+	}
+
+}
+
+@PART[sens-750]:NEEDS[HotBeverage/SensorModule,TweakScale]:FOR[SensorModules]
+{
+	MODULE
+	{
+		name = TweakScale
+		type = stack
+		freeScale = True7.5
+	}
+
+}
