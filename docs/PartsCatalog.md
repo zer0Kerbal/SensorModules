@@ -24,8 +24,7 @@ This add-on adds four (4) trunk (service module) parts each with all the modcons
 
 * 1.25m, 1.875.m 2.5m and 3.75m
 
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/docs/thumbs/serv-250_icon.png" alt="Service Module" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/docs/thumbs/HB.Sensor.Module.1_icon.png" alt="Sensor Module" width="25%" height="25%" />
 
 ---
 
