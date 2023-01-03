@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3184)                                 |
 | ckan       | SensorModules                                                     |
 
-## Version 0.9.99.0-prerelease `<Thank you Ph34b0t>` edition
+## Version 0.9.99.0-prerelease `<Thank you Ph34rb0t>` edition
 
 * Released
   * 31 Dec 2022
@@ -142,7 +142,7 @@
 ### Status 0.9.99.0
 
 * Issues
-* closes #26 - Service Modules (SERV) 0.9.99.0-adoption `<Thank you Ph34b0t>` edition
+* closes #26 - Service Modules (SERV) 0.9.99.0-adoption `<Thank you Ph34rb0t>` edition
 * closes #27 - 1.0.99.0 Create Legal Mumbo Jumbo
 * closes #28 - 1.0.99.0 Create Documentation
 * closes #29 - 1.0.99.0 Create Social Media Presence
@@ -157,9 +157,9 @@
 * Released
   * 09 Oct 2014
   * for Kerbal Space Program 0.25
-  * by Ph34b0t
+  * by Ph34rb0t
 
-* Last release by Ph34b0t
+* Last release by Ph34rb0t
 * No Changelog provided
 * Changes by zer0Kerbal
   * split out into three seperate part.cfg
@@ -178,9 +178,9 @@
 * Released
   * 22 Jul 2014
   * for Kerbal Space Program 0.23.5
-  * by Ph34b0t
+  * by Ph34rb0t
 
-### Creation by Ph34b0t
+### Creation by Ph34rb0t
 
 * No Changelog provided
 * Changes by zer0Kerbal
