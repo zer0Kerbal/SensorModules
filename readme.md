@@ -11,7 +11,7 @@ updated: 01 Jan 2023 -->
 
 # Sensor Modules (SENS)
 
-[Hot Beverage Inc][HBI] serves up some steaming [Sensor Modules][SENS] straight from the irradiating oven.
+These modules are an alternative to solar panels, also offering way better weight and endurance than batteries. They are set to last for 14 (Kerbin) days, so they should be useful for missions for which solar panels are not a suitable option due to aesthetics or such. Operation is fairly realistic.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [Ph34rb0t][ph34rb0t]
 
