@@ -174,7 +174,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Last release by Ph34rb0t
 * No Changelog provided
 * Changes by zer0Kerbal
-  * split out into three seperate part.cfg
+  * split out into three separate part.cfg
   * adjust nodes (flipped bottom axis)
 
 ### Status 0.2.0.0
@@ -196,7 +196,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * No Changelog provided
 * Changes by zer0Kerbal
-  * split out into three seperate part.cfg
+  * split out into three separate part.cfg
   * adjust nodes (flipped bottom axis)
 
 ### Status 0.1.0.0
